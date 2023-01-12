@@ -1,8 +1,8 @@
 # Jeremy Blalock
 
-_Engineering Leader & Entrepreneur_  
-(831) 402-8539 • jeremyjblalock@gmail.com  
-linkedin.com/in/jblalock • github.com/jeremyblalock
+_Engineering Leader & Entrepreneur_
+(831) 402-8539 • jeremyjblalock@gmail.com
+[linkedin.com/in/jblalock](https://linkedin.com/in/jblalock) • [github.com/jeremyblalock](https://github.com/jeremyblalock)
 
 ## Inventora
 
@@ -18,7 +18,7 @@ Managed 2 full time engineers. Also performed support & HR duties.
 
 ### Co-founder, CEO / CTO
 
-_August 2017 - September 2020_  
+_August 2017 - September 2020_
 
 Co-founded no-code mobile app builder that enables non-technical entrepreneurs to build amazing mobile apps without having to hire engineers. Started the company by myself, and grew to $12k in revenue, then brought on 2 co-founders, and eventually built to $50k in MRR and 20k MAU. Designed, architected and built initial product, expanded engineering team to 6 people (entire company grew to 15). Used React, React Native, and Node / Express to build platform that powered over 200 apps in the App Store. Architected plugin system now used by 20+ external developers to extend Adalo's core functionality. Raised $1.8M as CEO, from angels and institutional investors. Left due to dispute with co-founder.
 
