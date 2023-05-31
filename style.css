@@ -14,3 +14,16 @@ h3 + p {
 a {
   color: #35a;
 }
+
+.header p {
+  margin-bottom: 0;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+blockquote p {
+  margin: 0;
+}

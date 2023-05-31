@@ -1,18 +1,28 @@
 # Jeremy Blalock
 
-_Engineering Leader & Entrepreneur_
-(831) 402-8539 • jeremyjblalock@gmail.com
-[linkedin.com/in/jblalock](https://linkedin.com/in/jblalock) • [github.com/jeremyblalock](https://github.com/jeremyblalock)
+> _Engineering & Product Guy_
+> 
+> (831) 402-8539 • jeremyjblalock@gmail.com
+> 
+> [linkedin.com/in/jblalock](https://linkedin.com/in/jblalock) • [github.com/jeremyblalock](https://github.com/jeremyblalock)
 
 ## Inventora
 
 ### Co-founder, CTO
 
-_February 2021 - Present_
+_June 2021 - Present_
 
 Complete inventory management tool for small businesses who manufacture physical products. Co-founded with my wife, who runs runs the company, and focusses on growth & marketing. Built entire Node inventory tracking backend with FIFO accounting, leger, and flexible production system. Designed & built performant React app capable of displaying 10's of thousands of inventory items without crashing. Also built & managed 2-way syncing system (syncs with Shopify, Etsy, and other shops). Built out extensive SQL-based analytics and BI on top of app data. Implemented Grafana dashboard to monitor syncing queue health.
 
-Managed 2 full time engineers. Also performed support & HR duties.
+Managed 2 full time engineers. Also performed support, product, & HR roles.
+
+## Zipline
+
+### Senior Software Engineer
+
+_January 2021 - June 2021_
+
+Zipline is a revolutionary drone delivery service, primarily serving hospitals in the developing world. I built software for one of the newer initiatives launching the service in the US for the first time. I architected & built a Next.js mobile web app for placing orders in a custom ecommerce interface, tracking the order, and scheduling a delivery.
 
 ## Adalo
 
